@@ -20,9 +20,9 @@ Make sure you have Node.js installed on your system. You can install the require
 
 - Usage
 
-      Start the bot:
+  Start the bot:
 
-  node your-bot-script.js
+      node your-bot-script.js
 
   Open Telegram and start a chat with your bot.
 
