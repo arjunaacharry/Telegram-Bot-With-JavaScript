@@ -47,4 +47,4 @@ Make sure you have Node.js installed on your system. You can install the require
       Make sure to handle your API keys securely.
       If there are issues, check your network connection and the remove.bg API status.
 
-Enjoy using the Background Removal Bot!
+### Enjoy using the Background Removal Bot!
